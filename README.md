@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
-<h3 align="center">I am a passionate Frontend Developer from India with over a year of experience in web and mobile application development. My journey in technology began with a deep fascination for creating user-centric solutions that not only meet functional requirements but also provide an engaging user experience.</h3>
+<h3 align="center">I am a passionate Full Stack and DevOps Engineer from India, as well as an AI enthusiast. My journey in technology began with a deep fascination for creating user-centric solutions that not only meet functional requirements but also deliver engaging user experiences. I thrive on the challenge of integrating innovative technologies and best practices to develop scalable applications that enhance productivity and efficiency.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:kaushalraithatha71@gmail.com</h3>
 <p align="left">
 </p>
 
